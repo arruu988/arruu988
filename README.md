@@ -1,6 +1,8 @@
-# Hi, I'm Aryan
+<video src="https://github.com/user-attachments/assets/1da26b21-2487-4257-ae36-cc8fc3a8f965" controls autoplay muted loop playsinline width="100%"></video>
 
-Freelance developer from Varanasi, India. I build websites, web apps, Android apps, and Telegram / WhatsApp bots — fast, clean, and affordable.
+# Hi there
+
+Freelance developer. I build websites, web apps, Android apps, and Telegram / WhatsApp bots — fast, clean, and affordable.
 
 ## What I build
 
@@ -12,13 +14,6 @@ Freelance developer from Varanasi, India. I build websites, web apps, Android ap
 ## Stack
 
 Python · JavaScript · HTML · CSS
-
-## Recent work
-
-- [3D Biology Lab](https://3d-biology-lab-arrus-projects-c0963173.vercel.app/) — interactive 3D biology learning site
-- [Class 11 Biology Notes](https://aryan.my.id) — chapter-wise notes site
-- [Tasty Cakes By Lisa](https://lisacakeshop.vercel.app/) — cake shop with cart and order tracking
-- [Bernadette Cakes](https://bernadettecakes.vercel.app/) — wedding cake site with price estimator
 
 ## Get in touch
 
